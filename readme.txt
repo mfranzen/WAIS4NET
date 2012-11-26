@@ -1,0 +1,1 @@
+Erfassung von Weininformationen für die Weinmesse BWC
