@@ -1,1 +1,1 @@
-Erfassung von Weininformationen für die Weinmesse BWC
+Erfassung von Weininformationen fuer die Weinmesse BWC. In AuszÃ¼gen ohne config
